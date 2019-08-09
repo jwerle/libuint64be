@@ -1,6 +1,6 @@
 {
   "name": "uint64be",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A C99 library for creating random access storage interfaces.",
   "repo": "jwerle/libuint64be",
   "src": [
